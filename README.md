@@ -8,5 +8,5 @@
 1. Write a todo application
 2. Testing the application
 3. Server ErrorCodes
-4. Implement an http Rest server for a to do application with an API (Swagger)
+4. Implement a http Rest server for to do application with an API (Swagger)
 ---
